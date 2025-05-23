@@ -34,6 +34,29 @@ A handy **Extension** for developers that allows you to easily create, edit, imp
 
 ---
 
+### 📸 Screenshots
+
+#### 🧰 JSON Builder Page
+
+A clean UI for dynamically adding and managing key-value pairs, including support for:
+
+- Nested objects using `key=key1=value1, key2=value2`
+- Arrays using `[item1, item2, item3]`
+- File upload to auto-generate JSON
+- One-click copy and download
+
+<img src="public/json-validator.png" alt="JSON Builder Screenshot" width="100%" style="border-radius: 8px; border: 1px solid #ccc;" />
+
+---
+
+#### ✅ JSON Validator Page
+
+Paste raw JSON or upload a `.json` file to validate structure and formatting. Helpful for quickly testing responses or API mocks.
+
+<img src="public/validator-ss.png" alt="JSON Validator Screenshot" width="100%" style="border-radius: 8px; border: 1px solid #ccc;" />
+
+---
+
 ## 🛠️ How It Works
 
 - Use the input fields to define your JSON keys and values.
